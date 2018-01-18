@@ -6,10 +6,7 @@
 
 ### Gerar a pasta `lib` e instalar as dependências do projecto 
 
-```
-pip install -t lib -r requirements.txt 
-
-```
+```pip install -t lib -r requirements.txt ```
 
 ### i18n
 
@@ -17,6 +14,4 @@ pip install -t lib -r requirements.txt
 
 #### Gerar os ficheiros .mo com base nos ficheiros das traduções da pasta `locale`
 
-```
-pybabel compile -f -d ./locale
-```
+```pybabel compile -f -d ./locale```
