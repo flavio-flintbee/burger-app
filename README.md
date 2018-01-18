@@ -2,7 +2,7 @@
 
 ## Package installer
 
-[Pip]: https://pypi.python.org/pypi/pip
+[Pip](https://pypi.python.org/pypi/pip)
 
 ## Gerar a pasta `lib` e instalar as dependências do projecto 
 
